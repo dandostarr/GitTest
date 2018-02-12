@@ -1,0 +1,2 @@
+Teraz testujem novu vec,
+ci ked spravim novy ep branch,
