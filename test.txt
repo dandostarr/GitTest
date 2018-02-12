@@ -1,3 +1,7 @@
 Teraz testujem novu vec,
 ci ked spravim novy ep branch,
 a zmenim veci v testovom,
+ci ked spravim novy exp branch,
+a zaroven aj v master,
+ze co sa stane.
+
