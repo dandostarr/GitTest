@@ -1,2 +1,3 @@
 Teraz testujem novu vec,
 ci ked spravim novy ep branch,
+a zmenim veci v testovom,
