@@ -1,2 +1,4 @@
 Teraz testujem novu vec,
-ci ked spravim novy ep branch,
+ci ked spravim novy exp branch,
+a zaroven aj v master,
+ze co sa stane
